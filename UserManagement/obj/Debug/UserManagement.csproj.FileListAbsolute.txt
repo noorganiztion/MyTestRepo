@@ -1,0 +1,6 @@
+F:\Testapp\UserManagement\bin\Debug\UserManagement.dll
+F:\Testapp\UserManagement\bin\Debug\UserManagement.pdb
+F:\Testapp\UserManagement\obj\Debug\UserManagement.csprojAssemblyReference.cache
+F:\Testapp\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+F:\Testapp\UserManagement\obj\Debug\UserManagement.dll
+F:\Testapp\UserManagement\obj\Debug\UserManagement.pdb

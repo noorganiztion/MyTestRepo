@@ -1,0 +1,10 @@
+F:\Testapp\Testapp\bin\Debug\Testapp.exe.config
+F:\Testapp\Testapp\bin\Debug\Testapp.exe
+F:\Testapp\Testapp\bin\Debug\Testapp.pdb
+F:\Testapp\Testapp\obj\Debug\Testapp.csprojAssemblyReference.cache
+F:\Testapp\Testapp\obj\Debug\Testapp.csproj.CoreCompileInputs.cache
+F:\Testapp\Testapp\obj\Debug\Testapp.exe
+F:\Testapp\Testapp\obj\Debug\Testapp.pdb
+F:\Testapp\Testapp\bin\Debug\UserManagement.dll
+F:\Testapp\Testapp\bin\Debug\UserManagement.pdb
+F:\Testapp\Testapp\obj\Debug\Testapp.csproj.CopyComplete
